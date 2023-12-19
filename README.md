@@ -1,0 +1,2 @@
+# simple-bench-script
+benchmark
