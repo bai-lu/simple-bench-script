@@ -1,17 +1,5 @@
 #!/bin/bash
 
-# Yet Another Bench Script by Mason Rowe
-# Initial Oct 2019; Last update Nov 2023
-
-# Disclaimer: This project is a work in progress. Any errors or suggestions should be
-#             relayed to me via the GitHub project page linked below.
-#
-# Purpose:    The purpose of this script is to quickly gauge the performance of a Linux-
-#             based server by benchmarking network performance via iperf3, CPU and
-#             overall system performance via Geekbench 4/5, and random disk
-#             performance via fio. The script is designed to not require any dependencies
-#             - either compiled or installed - nor admin privileges to run.
-
 SBS_VERSION="v2023-11-30"
 
 echo -e '# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #'
