@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SBS_VERSION="v2024-01-01"
+SBS_VERSION="v2025.11"
 
 echo -e '# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #'
 echo -e '#              Simple-Bench-Script              #'
